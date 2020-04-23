@@ -1,0 +1,27 @@
+#include<stdio.h>
+main()
+{
+    int a
+    printf("시험점수를 입력해라")
+    scanf("%d",&a);
+    if(100>=a and a>=0);
+    {
+        if(100>=a and a>=90);
+        printf("A");
+        }
+        else if(89>=a and a>=80);
+        printf("B");
+        }
+        else if(79>=a and a>=70);
+        printf("C");
+        }
+        else if(69>=a and a>=60);
+        printf("D");
+        }
+        else;
+        printf("F");
+        }
+    else;
+    prinf("다시써")
+    }
+}
