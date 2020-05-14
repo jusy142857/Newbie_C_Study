@@ -1,0 +1,14 @@
+#include<stdio.h>
+int main()
+{
+    int a;
+    scanf("%d",&a);
+    int i;
+    int b;
+    for(i=0;i<a;i++){
+        for(b=0;b<=i;b++){
+        printf("*");
+    }
+        printf("\n");
+    }
+}
